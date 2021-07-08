@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">TestStratis</string>
+    <string name="text_btn_value_change">Camabir valor</string>
+    <string name="text_et_number">Escribe el número RGB separado por <u>,</u></string>
+    <string name="text_tv_color">Color</string>
+    <string name="text_tv_time_zone">TimeZone</string>
+    <string name="text_exception">Ingrese una entrada válida: ¡Los valores para R, G y B deben ser de 0 a 255 solamente!</string>
 </resources>
